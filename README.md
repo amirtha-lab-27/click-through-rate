@@ -58,4 +58,4 @@ Four deep learning models were implemented and compared:
 1. Clone the repository:
    ```bash
    git clone https://github.com/amirtha-lab-27/click-through-rate
-   cd ctr-prediction-avazu
+   ```
